@@ -16,6 +16,7 @@
 		D589D09C274480260064BDE7 /* FinanzasPersonalesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D589D09B274480260064BDE7 /* FinanzasPersonalesTests.swift */; };
 		D589D0A6274480260064BDE7 /* FinanzasPersonalesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D589D0A5274480260064BDE7 /* FinanzasPersonalesUITests.swift */; };
 		D589D0A8274480260064BDE7 /* FinanzasPersonalesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D589D0A7274480260064BDE7 /* FinanzasPersonalesUITestsLaunchTests.swift */; };
+		D589D0B5274480BE0064BDE7 /* Prueba.swift in Sources */ = {isa = PBXBuildFile; fileRef = D589D0B4274480BE0064BDE7 /* Prueba.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		D589D0A1274480260064BDE7 /* FinanzasPersonalesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinanzasPersonalesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D589D0A5274480260064BDE7 /* FinanzasPersonalesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinanzasPersonalesUITests.swift; sourceTree = "<group>"; };
 		D589D0A7274480260064BDE7 /* FinanzasPersonalesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinanzasPersonalesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D589D0B4274480BE0064BDE7 /* Prueba.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prueba.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D589D08E274480250064BDE7 /* Persistence.swift */,
 				D589D090274480250064BDE7 /* FinanzasPersonales.xcdatamodeld */,
 				D589D08B274480250064BDE7 /* Preview Content */,
+				D589D0B4274480BE0064BDE7 /* Prueba.swift */,
 			);
 			path = FinanzasPersonales;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D589D0B5274480BE0064BDE7 /* Prueba.swift in Sources */,
 				D589D08F274480250064BDE7 /* Persistence.swift in Sources */,
 				D589D092274480250064BDE7 /* FinanzasPersonales.xcdatamodeld in Sources */,
 				D589D088274480200064BDE7 /* ContentView.swift in Sources */,
